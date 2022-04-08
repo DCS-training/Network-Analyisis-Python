@@ -1,0 +1,1850 @@
+<?xml version="1.0" ?>
+<rss xmlns:ns0="http://a9.com/-/spec/opensearch/1.1/" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
+	
+    
+	<channel>
+		
+        
+		<title>Europeana Open Search</title>
+		
+        
+		<link>https://www.europeana.eu</link>
+		
+        
+		<description>Europeana Open Search results</description>
+		
+        
+		<ns0:totalResults>122121</ns0:totalResults>
+		
+        
+		<ns0:startIndex>100</ns0:startIndex>
+		
+        
+		<ns0:itemsPerPage>100</ns0:itemsPerPage>
+		
+        
+		<ns1:link href="" rel="search" type="application/rss+xml"/>
+		
+        
+		<ns0:Query role="request" searchTerms="blue" startPage="100"/>
+		
+        
+		<image>
+			
+            
+			<title>Europeana Open Search</title>
+			
+            
+			<link>https://www.europeana.eu</link>
+			
+            
+			<url>https://style.europeana.eu/images/europeana-logo-default.png</url>
+			
+        
+		</image>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20740</guid>
+			
+            
+			<title>amulets</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20740</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC6</guid>
+			
+            
+			<title>amulet, leaf</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC6</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20838</guid>
+			
+            
+			<title>amulets</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20838</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC42878</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC42878</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20832</guid>
+			
+            
+			<title>amulets</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20832</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC42937</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC42937</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC469</guid>
+			
+            
+			<title>pendant</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC469</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC43184</guid>
+			
+            
+			<title>amulets</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC43184</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1368</guid>
+			
+            
+			<title>vessel, pottery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1368</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC37321</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC37321</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_126381</guid>
+			
+            
+			<title>dish</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_126381</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC38890</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC38890</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20742</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20742</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72863</guid>
+			
+            
+			<title>Cap badge, Blue Star Line</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72863</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_JERSM_2012_00040</guid>
+			
+            
+			<title>Blue</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_JERSM_2012_00040</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDCT031963</guid>
+			
+            
+			<title>scarf&lt;'patka'/man's</title>
+			
+            
+			<link>https://www.europeana.eu/item/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDCT031963</link>
+			
+            
+			<description>Museu</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1369</guid>
+			
+            
+			<title>vessel, pottery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1369</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1366</guid>
+			
+            
+			<title>vessel, pottery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1366</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1364</guid>
+			
+            
+			<title>vessel, pottery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1364</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1363</guid>
+			
+            
+			<title>vessel, pottery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1363</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20747</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20747</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_124081</guid>
+			
+            
+			<title>dish</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_124081</link>
+			
+            
+			<description>Abigail Griffith; CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20672</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20672</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89288</guid>
+			
+            
+			<title>porringer</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89288</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_JERSM_1986_00141_029</guid>
+			
+            
+			<title>Blue beaded evening bag</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_JERSM_1986_00141_029</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC37323</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC37323</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2024904/https___www_topfoto_co_uk_asset_1825673</guid>
+			
+            
+			<title>Cup of tea</title>
+			
+            
+			<link>https://www.europeana.eu/item/2024904/https___www_topfoto_co_uk_asset_1825673</link>
+			
+            
+			<description>thePictureKitchen / EUFD; PHOTOCONSORTIUM</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2024904/https___www_topfoto_co_uk_asset_1825675</guid>
+			
+            
+			<title>Food</title>
+			
+            
+			<link>https://www.europeana.eu/item/2024904/https___www_topfoto_co_uk_asset_1825675</link>
+			
+            
+			<description>thePictureKitchen / EUFD; PHOTOCONSORTIUM</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20852</guid>
+			
+            
+			<title>amulets</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20852</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_08063</guid>
+			
+            
+			<title>camoscio blu e capretto azzurro</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_08063</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_13161</guid>
+			
+            
+			<title>blue nubuck and blue embroidery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_13161</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q29017359; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_13301</guid>
+			
+            
+			<title>blue and blue kid</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_13301</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89248</guid>
+			
+            
+			<title>porringer</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89248</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC632</guid>
+			
+            
+			<title>vessels</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC632</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC38904</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC38904</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20847</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20847</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_08062</guid>
+			
+            
+			<title>camoscio blu e capretto azzurro</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_08062</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_10442</guid>
+			
+            
+			<title>blue and blue kid</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_10442</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_11825</guid>
+			
+            
+			<title>blue and blue kid</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_11825</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89253</guid>
+			
+            
+			<title>porringer</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89253</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_11826</guid>
+			
+            
+			<title>blue and blue kid</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_11826</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89276</guid>
+			
+            
+			<title>porringer</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89276</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_126375</guid>
+			
+            
+			<title>plate</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_126375</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC992</guid>
+			
+            
+			<title>bead</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC992</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC705</guid>
+			
+            
+			<title>vessels</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC705</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC633</guid>
+			
+            
+			<title>vessels</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC633</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20674</guid>
+			
+            
+			<title>amulets</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20674</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_05523</guid>
+			
+            
+			<title>blue and blue kid</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_05523</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_Museums__Galleries___Archives_emu_ecatalogue_appliedart_122332</guid>
+			
+            
+			<title>dish</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_Museums__Galleries___Archives_emu_ecatalogue_appliedart_122332</link>
+			
+            
+			<description>Louise Powell; CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_127194</guid>
+			
+            
+			<title>plate</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_127194</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_124068</guid>
+			
+            
+			<title>dish</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_124068</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_124063</guid>
+			
+            
+			<title>dish</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_124063</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/317/1aecdb96_2d3e_4d44_ae65_6c6a0d80d6e9</guid>
+			
+            
+			<title>Tallit</title>
+			
+            
+			<link>https://www.europeana.eu/item/317/1aecdb96_2d3e_4d44_ae65_6c6a0d80d6e9</link>
+			
+            
+			<description>Judaica Europeana/Jewish Heritage Network</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_128600</guid>
+			
+            
+			<title>plate</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_128600</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72468</guid>
+			
+            
+			<title>Royal Naval uniform: pattern 1939</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72468</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_12752</guid>
+			
+            
+			<title>blue kid, blue net and blue cotton</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_12752</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q29049010; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC6446</guid>
+			
+            
+			<title>amulets</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC6446</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_128598</guid>
+			
+            
+			<title>plate</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_128598</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_124083</guid>
+			
+            
+			<title>dish</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_124083</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_gutter1993_08_15_flac16_gutter1993_08_15track27_mp3</guid>
+			
+            
+			<title>The Blue Drifter</title>
+			
+            
+			<link>https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_gutter1993_08_15_flac16_gutter1993_08_15track27_mp3</link>
+			
+            
+			<description>Europeana Sounds</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC26428</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC26428</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72467</guid>
+			
+            
+			<title>Royal Naval uniform: pattern 1939</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72467</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72469</guid>
+			
+            
+			<title>Royal Naval uniform: pattern 1939</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72469</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_05524</guid>
+			
+            
+			<title>capretto blu e azzurro</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_05524</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_cubensis2008_03_21_flac16_cubensis2008_03_21_16bit_set1t12_mp3</guid>
+			
+            
+			<title>Tangled Up In Blue</title>
+			
+            
+			<link>https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_cubensis2008_03_21_flac16_cubensis2008_03_21_16bit_set1t12_mp3</link>
+			
+            
+			<description>Europeana Sounds</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2059516/data_foodanddrink_O86456</guid>
+			
+            
+			<title>Pilgrim flask, fritware, polychrome painted, Turkey (Kütahya), 1750-1775.</title>
+			
+            
+			<link>https://www.europeana.eu/item/2059516/data_foodanddrink_O86456</link>
+			
+            
+			<description>Europeana Food and Drink</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDCT162482</guid>
+			
+            
+			<title>tunic and trousers (shalwar-kameez) and veil</title>
+			
+            
+			<link>https://www.europeana.eu/item/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDCT162482</link>
+			
+            
+			<description>2006; Museu</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1370</guid>
+			
+            
+			<title>vessel, pottery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1370</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_JERSM_1987_00749_023</guid>
+			
+            
+			<title>Nightdress Case</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_JERSM_1987_00749_023</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC3047</guid>
+			
+            
+			<title>jewellery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC3047</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20794</guid>
+			
+            
+			<title>amulets</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC20794</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_W191c</guid>
+			
+            
+			<title>vessel, pottery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_W191c</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC21087</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC21087</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/336/uuid_214f3e74_4d00_58a2_7fee_b3d3efb4e6a5</guid>
+			
+            
+			<title>Food habits of blue sheep, Pseudois nayaur in the Helan Mountains, China</title>
+			
+            
+			<link>https://www.europeana.eu/item/336/uuid_214f3e74_4d00_58a2_7fee_b3d3efb4e6a5</link>
+			
+            
+			<description>Liu, Zhensheng; Czech digital library/Česká digitální knihovna</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2059513/data_foodanddrink_efd_LGMA_1178</guid>
+			
+            
+			<title>cheese counter selection of blue cheese</title>
+			
+            
+			<link>https://www.europeana.eu/item/2059513/data_foodanddrink_efd_LGMA_1178</link>
+			
+            
+			<description>Europeana Food and Drink</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72015</guid>
+			
+            
+			<title>Royal Naval uniform: pattern 1901</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_72015</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_13763</guid>
+			
+            
+			<title>blue, blue and aqua green silk</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_13763</link>
+			
+            
+			<description>Loewe; 2006; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC61664</guid>
+			
+            
+			<title>foundation deposits</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC61664</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_125456</guid>
+			
+            
+			<title>plate</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_125456</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC7546</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC7546</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_214433</guid>
+			
+            
+			<title>doll (pastimes: toys)</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_214433</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2059513/data_foodanddrink_efd_LGMA_0591</guid>
+			
+            
+			<title>soft blue cheese</title>
+			
+            
+			<link>https://www.europeana.eu/item/2059513/data_foodanddrink_efd_LGMA_0591</link>
+			
+            
+			<description>Europeana Food and Drink</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_02495</guid>
+			
+            
+			<title>blue and blue silk and rope wedge</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_02495</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_09030</guid>
+			
+            
+			<title>lino azzurro e ricami blu</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_09030</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; 1985; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_cubensis2008_03_21_flac16_cubensis2008_03_21_16bit_set1t03_mp3</guid>
+			
+            
+			<title>It's All Over Now Baby Blue</title>
+			
+            
+			<link>https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_cubensis2008_03_21_flac16_cubensis2008_03_21_16bit_set1t03_mp3</link>
+			
+            
+			<description>Europeana Sounds</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89256</guid>
+			
+            
+			<title>porringer</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Horniman_Museum_and_Gardens_http___collections_horniman_ac_uk_objects_89256</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_126756</guid>
+			
+            
+			<title>plate</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_20Museums_2C_20Galleries_20_26_20Archives_emu_ecatalogue_appliedart_126756</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC12405</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC12405</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/91653/MILI_photo_MILIF002082</guid>
+			
+            
+			<title>Motorcykel, Monark Blue Arrow.</title>
+			
+            
+			<link>https://www.europeana.eu/item/91653/MILI_photo_MILIF002082</link>
+			
+            
+			<description>Okänd; Swedish Open Cultural Heritage | K-samsök</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_13249</guid>
+			
+            
+			<title>blue linen and blue cotton</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_13249</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048207/europeana_fashion_13664</guid>
+			
+            
+			<title>blue paint and blue mesh</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048207/europeana_fashion_13664</link>
+			
+            
+			<description>http://www.wikidata.org/entity/Q60556786; 1980; European Fashion Heritage Association</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2024904/https___www_topfoto_co_uk_asset_1826489</guid>
+			
+            
+			<title>Blue grapes</title>
+			
+            
+			<link>https://www.europeana.eu/item/2024904/https___www_topfoto_co_uk_asset_1826489</link>
+			
+            
+			<description>thePictureKitchen / EUFD; PHOTOCONSORTIUM</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2022365/Bristol_Museums__Galleries___Archives_emu_ecatalogue_appliedart_121688</guid>
+			
+            
+			<title>plate</title>
+			
+            
+			<link>https://www.europeana.eu/item/2022365/Bristol_Museums__Galleries___Archives_emu_ecatalogue_appliedart_121688</link>
+			
+            
+			<description>CultureGrid</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1371</guid>
+			
+            
+			<title>vessel, pottery</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_EC1371</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_Temp_0000_00010_020</guid>
+			
+            
+			<title>RAOB Medal</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_Temp_0000_00010_020</link>
+			
+            
+			<description>L. Simpson (London) Limited; AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC43163</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC43163</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC43115</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC43115</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC43019</guid>
+			
+            
+			<title>beads</title>
+			
+            
+			<link>https://www.europeana.eu/item/2048087/ProvidedCHO_UCL_Museums_http___www_ucl_ac_uk_museums_objects_LDUCE_UC43019</link>
+			
+            
+			<description>AthenaPlus</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/270/resource_document_jhm_museum_M005635</guid>
+			
+            
+			<title>[Bloemstilleven]</title>
+			
+            
+			<link>https://www.europeana.eu/item/270/resource_document_jhm_museum_M005635</link>
+			
+            
+			<description>http://data.jck.nl/resource/skos/thespersoon/80; Judaica Europeana/Jewish Heritage Network</description>
+			
+        
+		</item>
+		
+        
+		<item>
+			
+            
+			<guid>https://www.europeana.eu/item/496/LO11330479</guid>
+			
+            
+			<title>Night &amp; blue / Paolo Fresu 5et</title>
+			
+            
+			<link>https://www.europeana.eu/item/496/LO11330479</link>
+			
+            
+			<description>Paolo Fresu Quintet; 2010; CulturaItalia</description>
+			
+        
+		</item>
+		
+    
+	</channel>
+	
+
+</rss>
