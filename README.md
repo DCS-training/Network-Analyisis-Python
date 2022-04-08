@@ -6,7 +6,7 @@ Material created by Lucy Havens for the [Centre for Data, Culture, & Society](ht
 Folder contents:
 * Slides: PDF documents, two per week
 * Notebooks: Jupyter Notebooks demoing content from the slides and completing the assignments
-* Assignments: PDF documents one per week
+* Assignments: PDF documents, one per week
 
 The material in this repo is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
